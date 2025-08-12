@@ -1,0 +1,15 @@
+System Requirements:
+
+    Python Version:
+        Python 3.x (recommended Python 3.7 or later)
+
+    Software Requirements:
+        Python Packages:
+            numpy
+            pandas
+            matplotlib
+            scikit-learn
+            tensorflow (version 2.x)
+
+    Installation:
+        pip install numpy pandas matplotlib scikit-learn tensorflow
