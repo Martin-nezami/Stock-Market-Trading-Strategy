@@ -10,7 +10,7 @@ Additionally, a simple investment strategy is implemented to simulate potential 
 ## Project Structure
 The project is organized as follows:
 
-.
+```
 ├── data/
 │   ├── IVV_1m_validation.csv
 │   └── IVV_test_sample.csv
@@ -26,6 +26,7 @@ The project is organized as follows:
 │   └── backtest.py                 # wealth process logic
 ├── requirements.txt
 └── README.md
+```
 
 1. **Data Loading and Preprocessing**  
    - Loads historical stock price data from CSV files.  
